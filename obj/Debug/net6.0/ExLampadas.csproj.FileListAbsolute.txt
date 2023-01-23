@@ -1,0 +1,15 @@
+C:\Users\wellington.vxavier\source\repos\ExLampadas\bin\Debug\net6.0\ExLampadas.exe
+C:\Users\wellington.vxavier\source\repos\ExLampadas\bin\Debug\net6.0\ExLampadas.deps.json
+C:\Users\wellington.vxavier\source\repos\ExLampadas\bin\Debug\net6.0\ExLampadas.runtimeconfig.json
+C:\Users\wellington.vxavier\source\repos\ExLampadas\bin\Debug\net6.0\ExLampadas.dll
+C:\Users\wellington.vxavier\source\repos\ExLampadas\bin\Debug\net6.0\ExLampadas.pdb
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.csproj.AssemblyReference.cache
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.AssemblyInfoInputs.cache
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.AssemblyInfo.cs
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.csproj.CoreCompileInputs.cache
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.dll
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\refint\ExLampadas.dll
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.pdb
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ExLampadas.genruntimeconfig.cache
+C:\Users\wellington.vxavier\source\repos\ExLampadas\obj\Debug\net6.0\ref\ExLampadas.dll
